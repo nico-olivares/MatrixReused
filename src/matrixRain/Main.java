@@ -55,6 +55,7 @@ public class Main {
     	frame.add(rainPanel, BorderLayout.CENTER);
     	
     	frame.setVisible(true);
+    	Rain.targetCounter = 0;
     	//System.out.println("The component in the 0 position is " + 
     	//frame.getComponent(1));
     

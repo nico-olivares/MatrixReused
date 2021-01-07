@@ -83,6 +83,7 @@ public class Controls extends JPanel implements ActionListener {
 		
 		if (e.getSource() == stop) {
 			Main.resetPanel();
+			
 		}
 	}
 	
